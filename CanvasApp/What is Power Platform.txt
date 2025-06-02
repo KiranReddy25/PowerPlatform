@@ -1,0 +1,16 @@
+Microsoft Power Platform is a low-code/no-code application platform 
+developed by Microsoft that enables users—both technical and non-technical—
+to analyze data, build apps, automate processes, and create virtual agents using minimal coding
+
+
+
+Core Components:
+Power Apps – app development (Canvas, Model-driven apps)
+
+Power Automate – workflow automation
+
+Power BI – data visualization and analytics
+
+Power Pages – external-facing websites
+
+Dataverse – secure data platform behind Power Apps
