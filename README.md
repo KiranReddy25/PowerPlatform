@@ -4,9 +4,20 @@ Here's a breakdown of its core components, capabilities, and common use cases:
 
 **Core Components:**
 
-* **Power BI:** A business analytics tool for visualizing data through interactive reports and dashboards. It allows users to connect to various data sources, transform data, and gain insights for informed decision-making.
-* **Power Apps:** A low-code platform for building custom business applications for web and mobile devices. Users can create various app types (canvas, model-driven, and portals/pages) with drag-and-drop interfaces and connect them to diverse data sources.
-* **Power Automate (formerly Microsoft Flow):** A workflow automation tool that enables users to automate repetitive tasks and processes across different applications and services. This includes creating automated, instant, or scheduled flows.
+* **Power Apps:** A low-code platform for building custom business applications for web and mobile devices. Users can create various app types
+1. Canvas App 
+2. model-driven
+3.  portals/pages with drag-and-drop interfaces and connect them to diverse data sources.
+
+   
+* **Power Automate (formerly Microsoft Flow):** A workflow automation tool that enables users to automate repetitive tasks and processes across different applications and services. This includes creating.
+  
+1. Automated flows
+2. Instant flows
+3.  Scheduled flows.
+  
+* * **Power BI:** A business analytics tool for visualizing data through interactive reports and dashboards. It allows users to connect to various data sources, transform data, and gain insights for informed decision-making.
+
 * **Copilot Studio (formerly Power Virtual Agents):** Provides tools for customizing or building AI-powered chatbots (copilots) that can handle customer service inquiries, answer FAQs, and automate various interactions.
 * **Power Pages (formerly Power Apps Portals):** A low-code platform for creating, hosting, and administering external-facing business websites that can connect to Dataverse and other business data.
 * **Microsoft Dataverse (formerly Common Data Service):** A cloud-based data storage and management system that serves as the underlying data platform for the Power Platform, Office 365, and Dynamics 365 apps. It allows for secure data storage, management, and integration.
